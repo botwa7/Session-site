@@ -1,0 +1,22 @@
+{
+  "name": "session-site",
+  "version": "1.0.0",
+  "description": "EDWA-MD Session Generator",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static HTML project - no build required'",
+    "lint": "echo 'No linting configured for static HTML project'"
+  },
+  "dependencies": {
+    "@vercel/speed-insights": "^1.0.12"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "whatsapp",
+    "session",
+    "generator"
+  ],
+  "author": "Boss Edwa",
+  "license": "ISC"
+}

@@ -19,4 +19,11 @@ rad.json
 #License-file
 *.flf
 #Test results file
-TestResults.xml
+TestResults.xmlnode_modules/
+
+# Dependencies
+node_modules/
+
+# Lock files (keep package-lock.json for npm)
+# Commented out to include lockfile
+# package-lock.json
